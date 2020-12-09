@@ -19,7 +19,3 @@
 4. 💪 Opened PR [#159](https://github.com/mohammad-fouladgar/laravel-mobile-verification/pull/159) in [mohammad-fouladgar/laravel-mobile-verification](https://github.com/mohammad-fouladgar/laravel-mobile-verification)
 5. 🗣 Commented on [#158](https://github.com/mohammad-fouladgar/laravel-mobile-verification/issues/158) in [mohammad-fouladgar/laravel-mobile-verification](https://github.com/mohammad-fouladgar/laravel-mobile-verification)
 <!--END_SECTION:activity-->
-
-<p align="right">
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=50bhan&layout=compact"/>
-</p>
